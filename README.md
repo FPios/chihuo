@@ -38,7 +38,7 @@
      
 ### 分类模块
 * **这个模块主要使用tableview来展示** <br/>
-  * **你可以在这里找到想要的任何分类** <br/>
+  * **你可以在这里找到想要的其他分类** <br/>
     * **界面展示**  
 
 ![](https://github.com/SummerHF/chihuo/raw/master/gif-show/category.gif) 
@@ -46,7 +46,7 @@
     
 ### 图集模块
 * **这个模块主要使用tableview来展示** <br/>
-  * **你可以在这里找到想要的任何分类** <br/>
+  * **你可以在这里找到想要的图集** <br/>
     * **界面展示**  
 
 ![](https://github.com/SummerHF/chihuo/raw/master/gif-show/photoList.gif) 
