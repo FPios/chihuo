@@ -21,7 +21,8 @@
   * **你可以在这里找到想要的任何分类** <br/>
     * **界面展示**  
 
-![](https://github.com/SummerHF/chihuo/raw/master/gif-show/specialList.gif)  
+![](https://github.com/SummerHF/chihuo/raw/master/gif-show/specialList.gif) <br/>
+
     1.实现思路
     2.
 
