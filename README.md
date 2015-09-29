@@ -45,4 +45,7 @@
     * **界面展示**  
 
 ![](https://github.com/SummerHF/chihuo/raw/master/gif-show/photoList.gif) 
+
+    1.实现思路
+    2
 ***************************************************************
