@@ -1,8 +1,8 @@
 #吃货
 -------------------------------  
-                                    Author:朱海飞  
-                                    PhoneNum:13641906375
-                                    E-mail:zhuhaifei_ios@163.com
+                                    Author:朱海飞<br/>
+                                    PhoneNum:13641906375<br/>
+                                    E-mail:zhuhaifei_ios@163.com<br/>
 
 ***************************************************************
 ##介绍
@@ -20,6 +20,7 @@
 * **这个模块主要使用tableview来展示** <br/>
   * **你可以在这里找到想要的任何分类** <br/>
     * **界面展示**  
+![](https://github.com/SummerHF/chihuo/raw/master/gif-show/special.gif)   
 
 ### *分类模块*
 * 这个模块主要使用tableview来展示
