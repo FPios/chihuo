@@ -43,8 +43,6 @@
 
 ![](https://github.com/SummerHF/chihuo/raw/master/gif-show/category.gif) 
 
-    1.实现思路
-    2
     
 ### 图集模块
 * **这个模块主要使用tableview来展示** <br/>
@@ -53,6 +51,4 @@
 
 ![](https://github.com/SummerHF/chihuo/raw/master/gif-show/photoList.gif) 
 
-    1.实现思路
-    2
 ***************************************************************
