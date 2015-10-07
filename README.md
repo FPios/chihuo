@@ -1,8 +1,8 @@
 #吃货
 -------------------------------  
-                                    Author:朱海飞<br/>
-                                    PhoneNum:13641906375<br/>
-                                    E-mail:zhuhaifei_ios@163.com<br/>
+                                    Author:樊沛
+                                    PhoneNum:18362887049
+                                    E-mail:fanpei0128@126.com
                                     
                           *文采不是太好，写的不是太详细，具体内容可面试详谈，谢谢*
 
